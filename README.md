@@ -19,3 +19,9 @@ Además de las buenas prácticas deberán desarrollar:
 
 Ejemeplo de cómo podrán organizar la información:
 <img src='https://github.com/uscudum/JaP-S12-ProductRatings/blob/master/Resultado.PNG' />
+
+Integrantes:
+Rodrigo Martinez
+Santiago Font
+Tatiana Espinelli
+Gastón Techera
