@@ -29,7 +29,8 @@ function showProducts(array) {
     array.forEach(element => {
         const ratingEntero = Math.round(element.rating.rate)
         const starsHTML = stars(ratingEntero)
-        container.innerHTML += `<div class = "list-group-item">${element.title}<br>
+        const shortTitle = cutString(element.title);
+        container.innerHTML += `<div class = "list-group-item">${shortTitle}<br>
          ${starsHTML} ${fechaActual} </div>
         `;
     });
@@ -50,5 +51,9 @@ function stars(ratingEntero) {
 }
 
 function cutString(string) {
-
+    if (string.length <= 20) {
+        return string;
+    } else {
+        return string.slice(0, 20) + '...';
+    }
 }
