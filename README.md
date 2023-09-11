@@ -19,3 +19,10 @@ Además de las buenas prácticas deberán desarrollar:
 
 Ejemeplo de cómo podrán organizar la información:
 <img src='https://github.com/uscudum/JaP-S12-ProductRatings/blob/master/Resultado.PNG' />
+
+Integrantes del grupo:
+* Agustin Aranda
+* Agustin Guerrero
+* Joaquin Kuchman
+* Tomas Pons
+* Ignacio Rodao
