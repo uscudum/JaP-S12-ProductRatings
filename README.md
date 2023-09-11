@@ -2,6 +2,8 @@
 
 ## Ejercicio de semana 12 de Fase 2 JaP: Listado de productos con su calificación en estrellas, fecha y hora de obtención de los mismo
 
+Solución realizada por el grupo 4: Gonzalo Vera, Bruno Decuadra, Andrés Cardoso y Thiago Rodríguez.
+
 Aplicar las buenas prácticas trabajadas en las clases anteriores para:
 
 * Tener un código modularizado
