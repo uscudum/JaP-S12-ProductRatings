@@ -6,7 +6,7 @@ Aplicar las buenas prácticas trabajadas en las clases anteriores para:
 
 * Tener un código modularizado
 * Nomenclaturas descriptivas y utilizando camelCase
-* Utilización de try catch
+* Utilización de try catch ---------------
 * Documentación del código clara y concisa
 
 Además de las buenas prácticas deberán desarrollar:
@@ -19,3 +19,12 @@ Además de las buenas prácticas deberán desarrollar:
 
 Ejemeplo de cómo podrán organizar la información:
 <img src='https://github.com/uscudum/JaP-S12-ProductRatings/blob/master/Resultado.PNG' />
+
+
+INTEGRANTES
+
+*Martin Cabrera
+*Valentina Alonso
+*Miguel Soffarelli
+*Matias Mendez
+*Camila Etchebarne
